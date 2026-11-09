@@ -1,0 +1,9 @@
+{
+    "name": "MUX Debloat",
+    "description": "Android debloating tool for MUX devices, allowing users to remove unnecessary apps and services to improve performance and free up storage space.",
+    "version": "1.0.0",
+    "author": "Mohammad Mahfuz Rahman",
+    "ageRating": "18+",
+    "type": "app",
+    "category": "Tools"
+}

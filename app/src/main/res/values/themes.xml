@@ -1,0 +1,8 @@
+<resources>
+    <color name="mux_bg">#FF040A10</color>
+    <style name="Theme.MuxDebloat" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/mux_bg</item>
+        <item name="android:statusBarColor">@color/mux_bg</item>
+        <item name="android:navigationBarColor">@color/mux_bg</item>
+    </style>
+</resources>
